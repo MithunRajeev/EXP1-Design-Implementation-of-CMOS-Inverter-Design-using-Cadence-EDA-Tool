@@ -1,5 +1,6 @@
 # Ex No: 01 - Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools
-
+## MITHUNRAJEEV V
+## REG NO:212223060159
 ## Aim
 The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools, assess its key electrical properties, and explore foundational CMOS principles, including the design workflow and simulation approaches.
 
@@ -36,28 +37,31 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 
 ## Circuit Diagram:
 #### 1. Schematic of CMOS Inverter:
+![Screenshot 2025-03-20 085337](https://github.com/user-attachments/assets/8a110d8b-73af-429f-acb7-df6bc993acf5)
 
-   ![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
-#### 2. Transient Response Setup:
 
-    ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
-#### 3. Voltage Transfer Characteristic (VTC)  Setup:
+## 2. Transient Response Setup:
+ ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+## 3. Voltage Transfer Characteristic (VTC)  Setup:
 
    ![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
 
 ## Output
 #### 1.Transient Analysis Output
+![Screenshot 2025-03-20 085300](https://github.com/user-attachments/assets/4dfc849e-eb78-4b9b-b446-62118b1e868a)
 
-  ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+
 #### 2.DC Analysis Output
+![Screenshot 2025-03-20 090344](https://github.com/user-attachments/assets/005be6dc-6f3b-4f67-95dc-7d06c828d646)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
 
 ## Results:
 
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
 2.	The simulation results demonstrated the correct logic operation of the inverter, where the output voltage switches between high (Vdd) and low (0V) levels, corresponding to the input voltage transitions.
 3.	The Voltage Transfer Characteristic (VTC) curve was plotted, showing the relationship between input and output voltages.
+
+
 
 
 
